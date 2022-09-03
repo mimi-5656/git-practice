@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header{
+  height: 50px;
+  width: 100%;
+  background-color: #FF9A4B;
+}
+
+main{
+  width: 960px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex; 
+  justify-content: center;
+  text-align: center;
+}
+
+.visual-step{
+  background-color: #FF9A4B;
+  background-position: left;
+  background-size: ;
+  text-align: left;
+}
+
+.visual1{
+  width: 300px;
+  margin-right: 30px;
+  background-color: #EEEEEE;
+  background-image: url(flow01.png);
+}
+
+.footer{
+  height: 50px;
+  width: 100%;
+  background-color:#AAAAAA;
+}
